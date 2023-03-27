@@ -3,3 +3,8 @@ Testinasfdkfadsjlfadsjkl
 asdfa
 fadsfdas
 
+Publishing this branch was not supposed to work. I have no idea why my module branch
+in the other repo isnt working then. 
+
+I should not have been able to publish
+
